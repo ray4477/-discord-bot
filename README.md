@@ -8,7 +8,7 @@ A bot that spits out emoji combinations with the hotdog emoji using Google's emo
 grabs any discord message with "hotdog"  \
 uses openai to associate message with unicode of an emoji  \
 use 3rd party API(made by https://github.com/arnav-kr) that uses Google's emoji kitchen to copy image  \
-send image across discord  \
+send image across discord  
 
 
 
